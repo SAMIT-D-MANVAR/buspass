@@ -7,6 +7,9 @@ Student can book a bus pass only after he login/signup. In student portal there 
 The admin or the department who handles the college transportation facility can get a tabular view of all the student booking details who has applied for a bus pass. graphical Data visualization platform where the admin or the department can make better decisions with help of graphical data like bar graphs, pie charts etc
 
 Link to the website https://nmamitbuspass.000webhostapp.com/
+
+
+
 Snapshots 
 
 ![image](https://user-images.githubusercontent.com/69346963/126457994-0fffc506-f580-4d40-97e6-dce7b17694ee.png)
