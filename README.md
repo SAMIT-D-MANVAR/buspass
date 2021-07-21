@@ -24,3 +24,12 @@ Snapshots
 
 ![image](https://user-images.githubusercontent.com/69346963/126458162-317fbf3d-fe58-453c-b6bf-84edb1c80603.png)
 
+![image](https://user-images.githubusercontent.com/69346963/126458629-510d9d6e-eef2-4da5-b37b-00e2b48f9338.png)
+
+![image](https://user-images.githubusercontent.com/69346963/126458654-efefd04e-f207-4487-9858-809dc7189c0e.png)
+
+![image](https://user-images.githubusercontent.com/69346963/126458670-15c6db33-6980-477a-b3ac-7adcdcc70ac3.png)
+
+
+![image](https://user-images.githubusercontent.com/69346963/126458693-2077b270-83aa-4ff9-8bd4-8a17031d264a.png)
+
