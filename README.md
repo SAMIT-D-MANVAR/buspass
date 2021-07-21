@@ -6,7 +6,6 @@ As internet came into existence it has changed the world. In today’s world mos
 Student can book a bus pass only after he login/signup. In student portal there are two sections – Book a pass and view status. A student can get his bus pass only after he successfully submits the online bus application form.
 The admin or the department who handles the college transportation facility can get a tabular view of all the student booking details who has applied for a bus pass. graphical Data visualization platform where the admin or the department can make better decisions with help of graphical data like bar graphs, pie charts etc
 
-Link to the website https://nmamitbuspass.000webhostapp.com/
 
 
 
